@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63ac0254ef0b840409e09f6fc48f0261, type: 3}
   m_Name: NPC1 Farewell
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  npcText: 
-  options: []
+  npcText: Thank you oh great coin collector, i will open the door so that you may
+    gather enough coins to kill the baron
+  options:
+  - text: Thanks...
+    nextNode: {fileID: 0}
+    objectiveIndex: 0
+    destroyOnClose: {fileID: 0}

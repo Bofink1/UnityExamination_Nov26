@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63ac0254ef0b840409e09f6fc48f0261, type: 3}
   m_Name: NPC1 Secondary
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  npcText: 
-  options: []
+  npcText: Go on, collect the coins so that you may kill the big bad fat baron
+  options:
+  - text: SIR YES SIR
+    nextNode: {fileID: 0}
+    objectiveIndex: 0
+    destroyOnClose: {fileID: 0}

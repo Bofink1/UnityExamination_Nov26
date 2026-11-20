@@ -12,5 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63ac0254ef0b840409e09f6fc48f0261, type: 3}
   m_Name: NPC1 Greeting
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNode
-  npcText: 
-  options: []
+  npcText: Please you must hep us little coin collector man, the big baron is going
+    to crush our city
+  options:
+  - text: I help!!!
+    nextNode: {fileID: 11400000, guid: 72fd8bfb4eaa283468405a03eca141f2, type: 2}
+    objectiveIndex: 0
+    destroyOnClose: {fileID: 0}
+  - text: uumm ok
+    nextNode: {fileID: 11400000, guid: 72fd8bfb4eaa283468405a03eca141f2, type: 2}
+    objectiveIndex: 0
+    destroyOnClose: {fileID: 0}
