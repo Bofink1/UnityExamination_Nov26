@@ -1411,6 +1411,18 @@ PrefabInstance:
       value: Coin
       objectReference: {fileID: 0}
     - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.604713
+      objectReference: {fileID: 0}
+    - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.604713
+      objectReference: {fileID: 0}
+    - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.604713
+      objectReference: {fileID: 0}
+    - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.720621
       objectReference: {fileID: 0}
@@ -3188,6 +3200,18 @@ PrefabInstance:
       value: Coin (1)
       objectReference: {fileID: 0}
     - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.1708312
+      objectReference: {fileID: 0}
+    - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.1708312
+      objectReference: {fileID: 0}
+    - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.1708312
+      objectReference: {fileID: 0}
+    - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.76
       objectReference: {fileID: 0}
@@ -3480,7 +3504,7 @@ SpriteRenderer:
   m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -1403630818877167103, guid: b880b2c076ce0e94a97192d8e73ab21c, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.4509804}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -3517,12 +3541,24 @@ PrefabInstance:
       value: Coin (2)
       objectReference: {fileID: 0}
     - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.8625022
+      objectReference: {fileID: 0}
+    - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.8625022
+      objectReference: {fileID: 0}
+    - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.8625022
+      objectReference: {fileID: 0}
+    - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.8355255
+      value: 3.18
       objectReference: {fileID: 0}
     - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.6316023
+      value: 1.03
       objectReference: {fileID: 0}
     - target: {fileID: 5978805672219072343, guid: 2cd09c129cff4e542a8ca0d11794bea0, type: 3}
       propertyPath: m_LocalPosition.z
